@@ -1,0 +1,14 @@
+p{
+  padding: 0px;
+  margin: 0px;
+  font-family:'Times New Roman', Times, serif;
+}
+body{
+  background-color: black;
+}
+.upper-section{
+  display: flex;
+}
+.bottom-section{
+
+}

@@ -1,0 +1,11 @@
+.left-side{
+  background-color:black;
+  display: flex;
+  padding-left: 100px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  padding-right: 100px;
+  flex: 1;
+}
+.left-side-logo{
+}

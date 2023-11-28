@@ -1,0 +1,14 @@
+.bottom-side{
+  margin-top: 30px;
+  display: grid;
+  background-color: black;
+  grid-template-columns: repeat(auto-fill, mimimax(200px, 1fr));
+}
+@media (max-width: 600px) {.bottom-side{grid-template-columns:
+  repeat(auto-fill, mimimax(100%, 1fr));}}
+
+.back-text{
+  margin: 5px;
+  text-align: center;
+  color: white;
+}

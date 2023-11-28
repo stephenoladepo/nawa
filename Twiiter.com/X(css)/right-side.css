@@ -1,0 +1,122 @@
+.right-side{
+  background-color: black;
+  padding-top: 150px;
+  flex: 1;
+}
+.header-box{
+  margin-bottom: 20px;
+}
+.header-text{
+  color: white;
+  font-weight: bolder;
+  font-size: 70px;
+  font-family:font-family: arial;
+
+}
+.sub-heading-box{
+  margin-bottom: 20px;
+}
+.sub-heading-text{
+  color: white;
+  font-size: 50px;
+  font-weight: bolder;
+}
+.Google-signup-button{
+  display: flex;
+  background-color: white;
+  border-radius: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-style: none;
+  font-weight: 500;
+  font-family: Roboto;
+  font-size: 14px;
+  color: rgb(68, 67, 67);
+  align-content: center;
+  margin-bottom: 8px;
+}
+.google-icon{
+  width: 15px;
+  margin-right: 5px;
+}
+.Apple-signup-button{
+  display: flex;
+  background-color: white;
+  border-radius: 20px;
+  padding-left: 50px;
+  padding-right: 58px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-style: none;
+  font-weight: 500;
+  font-family: Roboto;
+  font-size: 14px;
+  color: rgb(68, 67, 67);
+  align-content: center;
+  margin-bottom: 8px;
+}
+.apple-icon{
+  width: 15px;
+  margin-right: 5px;
+}
+.or-text{
+  color: grey;
+}
+.or-text-span{
+  color: white;
+  font-size: 16px;
+  font-family: roboto;
+}
+.Create-account-button{
+  display: flex;
+  background-color:rgb(29, 155, 240);
+  border-radius: 20px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-style: none;
+  font-weight: 500;
+  font-family: Roboto;
+  font-size: 14px;
+  color:white;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.terms-text{
+  color: grey;
+  font-size: 12px;
+  width: 320px;
+  font-family: roboto;
+  margin-bottom: 50px;
+}
+.terms-text-span{
+  color:rgb(29, 155, 240);
+}
+.account-text{
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: roboto;
+}
+.account-box{
+  margin-bottom: 10px;
+}
+.Sign-in-button{
+  background-color: black;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 14px;
+  border: solid;
+  color:rgb(29, 155, 240);
+  border-color:grey;
+  border-width: 1px;
+  border-radius: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  
+}
